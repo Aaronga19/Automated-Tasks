@@ -1,5 +1,9 @@
 # ENV
 Automate
-
+.ipynb_checkpoints
 # Información condifencial
 secret.json
+
+# Inecesary files
+*.mp4
+
