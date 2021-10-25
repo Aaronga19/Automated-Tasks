@@ -5,8 +5,19 @@ from bs4 import BeautifulSoup
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-
+import json
 import datetime
+
+with open("secret.json") as f:
+    secret = json.loads(f.read())
+
+def get_secret(secret_name, secrets=secret):
+    try:
+        return secrets[secret_name]
+    except:
+        msg = "la variable %s no existe" % secret_name
+        raise (msg)
+
 now = datetime.datetime.now()
 
 # email content placeholder
@@ -38,9 +49,9 @@ print('Composing Email...')
 
 SERVER = 'smtp.gmail.com'
 PORT = 587
-FROM = 'mettcorp19@gmail.com'
-TO = 'arcanmett@gmail.com'
-PSWD = 'atfegnzclvlxrocp'
+FROM = get_secret('FROM')
+TO = get_secret('TO')
+PSWD = get_secret('PSWD')
 
 msg = MIMEMultipart()
 
