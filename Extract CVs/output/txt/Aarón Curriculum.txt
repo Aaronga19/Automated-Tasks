@@ -1,0 +1,158 @@
+ 
+
+ 
+
+AARÓN JUÁREZ ACOSTA  
+
+Canahutli 420, Col. Santo Domingo, Al. Coyoacán  
+CP. 04369, CDMX.   
+Cel: 5568533536                  Edad: 25 años 
+Email: aaronga@comunidad.unam.mx 
+GitHub: Aaronga19 (Aarón Juárez)  
+Portfolio: ---- 
+
+EDUCACIÓN 
+
+Ingeniería Eléctrica-Electrónica. UNAM (Egresado, en proceso de titulación).  
+Promedio: 8.36 
+ 
+
+ACTIVIDADES ACADÉMICAS 
+
+Proyectos realizados durante la licenciatura (Hardware): 
+
+“Robot  de  Enjambre”.  programado  en  lenguaje  C++  para  tarjeta  ESP32  y  con  protocolos 
+
+FreeRTOS,  enfocado  para  “Internet  of  Things”.  Se  recolectaron  los  datos  tomados  por  los 
+
+sensores  y  se  guardaban  en  bases  de  datos  (Hoja  de  Excel  (.csv))  para  futuros 
+
+comportamientos al optimizar los mismos. 
+
+“Carrito 3D impreso”. Controlado a través de aplicación Android mediante la vinculación de 
+
+bluetooth, programado en IDE Arduino. 
+
+“Automatización de invernadero para Cactáceas”. Programado en IDE Arduino con lenguaje 
+
+C++ y haciendo uso de Hardware Arduino Uno. 
+
+Proyectos Personales (Software): 
+
+“Portafolio”. Ha sido un proyecto con Python y Django que muestra diversos proyectos en los 
+
+que he trabajado. Realiza consultas a la base de datos de PostgreSQL. El Frontend se trabajó 
+
+con  CSS  y  Bootstrap.  Cabe  destacar  que  está  hecho  con  responsive  design.  El  proyecto 
+
+además  está  funcionando  completamente  en  Docker,  sin  embargo,  no  se  ha  hecho  el 
+
+despliegue de este. Actualmente sigo trabajando en ello, ya que se pretende desplegar en un 
+
+host gratuito con el contenedor de Docker.  Aaronga19/Portfolio: This is my portfolio. Here I show 
+
+what I've been working during my learning as Software Devoleper. (github.com) 
+
+“Creación  de  página  web  de  tienda  online”.  Para  este  proyecto  se  ha  usado  Python  y  el 
+
+framework Django. La base de datos está conectada a PostgreSQL y manipulada con Django 
+
+a  través  de  su  ORM.  Para  el  Frontend  se  ha  usado  Fundation.  (Aún  no  está  alojado  en  un 
+
+servidor) Aaronga19/DjangoProjects: Some projects developed in Django (github.com) 
+
+“Análisis Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2018”. Se indagó en 
+
+los  datos  relacionales  sintetizando  la  información  para  tener  una  mejor  comprensión  de  los 
+
+datos mediante procesos estadísticos, utilizando herramientas de software como R con Rstudio, 
+
+y  Python  con  Spyder  IDE.  Donde  se  pretende  conocer  nueva  información  con  algoritmos 
+
+sencillos de Machine Learning tras elaborar un reporte con Markdown. (En proceso). 
+
+SOFTWARE & HARDWARE 
+
+•  Español          Nativo 
+
+• 
+
+• 
+
+Ingles             Intermedio (En proceso) 
+
+Francés         Básico (En proceso) 
+
+ 
+
+    
+
+IDIOMAS 
+
+COMPETENCIAS 
+
+en equipo.    
+
+lógico matemático. 
+
+Profesionales:   Resolución de problemas.    Proyectos de investigación y desarrollo.  Trabajo 
+
+Consumo y creación de APIs.  Interpretación de datos.   Manejo de datos.  Pensamiento 
+
+Personales:    Proactivo.    Comprometido.   Capacidad de liderazgo.    Mejora constante. 
+
+                                  Disciplina.                 Creatividad.                    Autodidacta.         
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+      
+
+2 
+
+ 
+
+INTERESES 
+
+•  Mejorar habilidades de ingeniería de software. 
+
+• 
+
+Tener mejor conocimiento acerca del Backend y Frontend. 
+
+•  Desarrollo de modelos predictivos con Machine Learning y Deep Learning (Redes 
+
+Neuronales Convolucionales principalmente). 
+
+•  Poder implementar mis conocimientos en proyectos de Inteligencia Artificial en general. 
+
+PREMIOS Y RECONOCIMIENTOS 
+
+▪  Finalista en “Feria de la Ciencias y las Ingenierías del Estado de México 2019 (FECIEM)” con proyecto 
+
+conjunto, titulado: “Amplificador para guitarra con tecnología Nutube y controles de ganancia 
+
+mediante dispositivos Android.” -Reconocimiento- Proyecto de titulación con modificaciones.   
+
+▪  Participación en boletín de la gaceta UNAM con proyecto de investigación Innovador amplificador 
+
+de uso a distancia para guitarra eléctrica (unam.mx). 
+
+3 
+
+
