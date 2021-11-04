@@ -6,5 +6,6 @@ secret.json
 
 # Inecesary files
 *.mp4
-
+*.jpg
+*.png
 *cache*
